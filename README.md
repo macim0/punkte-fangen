@@ -95,18 +95,9 @@ Berührt ein Hindernis die Spielfigur ist das Spiel vorbei. Sind die Hindernisse
 
 Dieses Repository kann als **Tutorial** für MakeCode verwenden.
 
-öffne dazu den Link: [https://makecode.calliope.cc/#tutorial:https://github.com/macim0/Spiele_Programmieren_Lernen_Hindernislauf]
+öffne dazu den Link: [https://makecode.calliope.cc/#tutorial:https://github.com/macim0/punkte-fangen]
 
 
 > Diese Seite bei [https://macim0.github.io/punkte-fangen/](https://macim0.github.io/punkte-fangen/) öffnen
-
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/macim0/punkte-fangen** suchen und importieren
 
 
