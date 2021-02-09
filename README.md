@@ -2,9 +2,9 @@
 
 
 ## ~ @unplugged
-Es soll ein Hindernislauf programmiert werden.
-Ziel des Spieles: Sammle möglichst viele Punkte indem du mit den Tasten A und B den Hindernissen ausweichst, welche vom oberen Bildschirmrand nach unten bewegt werden.
-![Hindernislauf](https://github.com/r00b1nh00d/Spiele_Programmieren_Lernen_Hindernislauf/blob/master/HindernislaufGIF.gif?raw=true)
+Es soll ein Spiel programmiert werden.
+Ziel des Spieles: Sammle so viele Punkte wie möglich ein, indem du den Calliope neigst.
+![Hindernislauf](https://github.com/macim0/punkte-fangen/blob/master/punkte-fangen.gif?raw=true)
 
 
 ## Schritt 1: Erstelle eine Spielfigur
