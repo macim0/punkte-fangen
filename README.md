@@ -15,7 +15,7 @@ let Spielfigur: game.LedSprite = 0
 ```
 
 ## Schritt 2: Einen Sprite auf die Variable speichern
-Im Bereich ``||game: Spiel||`` was unter ``|advanced: Fortgeschritten|`` zu finden ist, wird mit den sogenannten Sprites gearbeitet. 
+Im Bereich ``||game: Spiel||``, welcher unter ``|advanced: Fortgeschritten|`` zu finden ist, wird mit den sogenannten Sprites gearbeitet. 
 Diese Sprites sind wie Spielsteine oder Spielfiguren. Sie besitzen eine Position (eingeteilt in X von links nach recht und Y von oben nach unten),
  eine Blickrichtung, eine Helligkeit und sie können blinken.  <br>
 Wir brauchen aus dem Bereich ``||game: Spiel||`` den Block ``||game: erzeuge Sprite an Position x y ||``. Dieser wird in den Block ``||Variables: Setze Variable auf||`` geschoben.
@@ -84,9 +84,9 @@ Punkt.set(LedSpriteProperty.Blink, 250)
 ## ~avatar avatar @unplugged
 Unter : [https://github.com/r00b1nh00d/Spiele_Programmieren_Lernen_Hindernislauf/blob/master/KurzHilfeSpiele.pdf](https://github.com/r00b1nh00d/Spiele_Programmieren_Lernen_Hindernislauf/blob/master/KurzHilfeSpiele.pdf) <br>
 findest du auch nochmal eine kurze Übersicht zu den Befehlen aus dem Bereich ``||game: Spiele||``. <br>
-Jetzt ist es an dir dieses Tutorial zu verlassen und in den Editor zu wechseln. <br>
-Füre dort die Hindernisse 1 bis 3 dem Programm hinzu und lass diese ``||basic: Dauerhauft||`` und immer wieder neu auf der Anzeige des @boardname@ von oben nach unten bewegen. <br>
-Berührt ein Hindernis die Spielfigur ist das Spiel vorbei. Sind die Hindernisse am unteren Rand angelangt sollen sie erneut an ``||maths:zufälliger||`` Stelle auftauchen und ein Punkt vergeben werden. Über eine Zeiteinstellung mittels ``||basic:pausiere||`` kannst du die Schwierigkeit einstellen. 
+Jetzt ist es an dir, dieses Tutorial zu verlassen und in den Editor zu wechseln. <br>
+Füge dort eventuell einen weiteren Punkt dem Programm hinzu und lass diese ``||basic: Dauerhauft||`` und immer wieder neu auf der Anzeige, wenn du einen Punkt berührt hast. <br>
+Überlege dir eine Bedingung, wann das Spiel vorbei ist und finde eine Möglichkeit Punkte zu verteilen. 
 
 
 
